@@ -9,7 +9,7 @@ import {GithubClientService} from './synopsys-action/github-client-service'
 import {isNullOrEmptyValue} from './synopsys-action/validators'
 
 export async function run() {
-  info('Synopsys Action started...')
+  info('Synopsys Action started..... 1209111')
   const tempDir = await createTempDir()
   let formattedCommand = ''
   let isBridgeExecuted = false

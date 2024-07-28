@@ -214,7 +214,7 @@ const github_client_service_1 = __nccwpck_require__(2016);
 const validators_1 = __nccwpck_require__(8401);
 function run() {
     return __awaiter(this, void 0, void 0, function* () {
-        (0, core_1.info)('Synopsys Action started...');
+        (0, core_1.info)('Synopsys Action started..... 1209111');
         const tempDir = yield (0, utility_1.createTempDir)();
         let formattedCommand = '';
         let isBridgeExecuted = false;
